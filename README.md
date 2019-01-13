@@ -62,6 +62,6 @@ npm install --save babylon-voxel-player
 
 ## License
 
-Copyright (c) 2017 Nesh108<br/>
+Copyright (c) 2019 Asenturisk <br/>
 
 Licensed under the MIT license.
