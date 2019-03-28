@@ -60,6 +60,10 @@ npm install --save babylon-voxel-player
 
 * 1.0.0 - initial release
 
+> Launch Example:
+[World 1](https://nesh108.github.io/babylon-voxel-demo/)
+
+
 ## License
 
 Copyright (c) 2019 Asenturisk <br/>
